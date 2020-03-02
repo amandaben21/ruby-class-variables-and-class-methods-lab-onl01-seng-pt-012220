@@ -18,8 +18,8 @@ class Song
   end
   
   def self.artists
-    @artists.unqie
-
+    @artists.uniq
+  end
 
 
 
